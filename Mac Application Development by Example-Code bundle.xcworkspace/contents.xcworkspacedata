@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:README.md">
+   </FileRef>
+   <Group
+      location = "group:04"
+      name = "04">
+      <Group
+         location = "group:Global Currency"
+         name = "Global Currency">
+         <FileRef
+            location = "group:BTSAppDelegate.h">
+         </FileRef>
+         <FileRef
+            location = "group:BTSAppDelegate.m">
+         </FileRef>
+         <Group
+            location = "group:en.lproj"
+            name = "en.lproj">
+            <FileRef
+               location = "group:Credits.rtf">
+            </FileRef>
+            <FileRef
+               location = "group:InfoPlist.strings">
+            </FileRef>
+            <FileRef
+               location = "group:MainMenu.xib">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:Global Currency-Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:Global Currency-Prefix.pch">
+         </FileRef>
+         <FileRef
+            location = "group:main.m">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:Global Currency.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:02"
+      name = "02">
+      <Group
+         location = "group:SimpleCalc"
+         name = "SimpleCalc">
+         <FileRef
+            location = "group:BTSAppDelegate.h">
+         </FileRef>
+         <FileRef
+            location = "group:BTSAppDelegate.m">
+         </FileRef>
+         <Group
+            location = "group:en.lproj"
+            name = "en.lproj">
+            <FileRef
+               location = "group:Credits.rtf">
+            </FileRef>
+            <FileRef
+               location = "group:InfoPlist.strings">
+            </FileRef>
+            <FileRef
+               location = "group:MainMenu.xib">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:main.m">
+         </FileRef>
+         <FileRef
+            location = "group:SimpleCalc-Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:SimpleCalc-Prefix.pch">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:SimpleCalc.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:03"
+      name = "03">
+      <Group
+         location = "group:NewDefaults"
+         name = "NewDefaults">
+         <Group
+            location = "group:en.lproj"
+            name = "en.lproj">
+            <FileRef
+               location = "group:InfoPlist.strings">
+            </FileRef>
+            <FileRef
+               location = "group:NewDefaults.xib">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:NewDefaults-Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:NewDefaults-Prefix.pch">
+         </FileRef>
+         <FileRef
+            location = "group:NewDefaults.h">
+         </FileRef>
+         <FileRef
+            location = "group:NewDefaults.m">
+         </FileRef>
+         <FileRef
+            location = "group:NewDefaults.tiff">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:NewDefaults.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:05"
+      name = "05">
+      <Group
+         location = "group:Numbers in the Cloud"
+         name = "Numbers in the Cloud">
+         <FileRef
+            location = "group:BTSAppDelegate.h">
+         </FileRef>
+         <FileRef
+            location = "group:BTSAppDelegate.m">
+         </FileRef>
+         <Group
+            location = "group:en.lproj"
+            name = "en.lproj">
+            <FileRef
+               location = "group:Credits.rtf">
+            </FileRef>
+            <FileRef
+               location = "group:InfoPlist.strings">
+            </FileRef>
+            <FileRef
+               location = "group:MainMenu.xib">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:main.m">
+         </FileRef>
+         <FileRef
+            location = "group:Numbers in the Cloud-Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:Numbers in the Cloud-Prefix.pch">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:Numbers in the Cloud.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:07"
+      name = "07">
+      <Group
+         location = "group:iSight iMage cApture"
+         name = "iSight iMage cApture">
+         <FileRef
+            location = "group:BTSAppDelegate.h">
+         </FileRef>
+         <FileRef
+            location = "group:BTSAppDelegate.m">
+         </FileRef>
+         <Group
+            location = "group:en.lproj"
+            name = "en.lproj">
+            <FileRef
+               location = "group:Credits.rtf">
+            </FileRef>
+            <FileRef
+               location = "group:InfoPlist.strings">
+            </FileRef>
+            <FileRef
+               location = "group:MainMenu.xib">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:iSight iMage cApture-Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:iSight iMage cApture-Prefix.pch">
+         </FileRef>
+         <FileRef
+            location = "group:main.m">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:iSight iMage cApture.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:08"
+      name = "08">
+      <Group
+         location = "group:iSight Recorder"
+         name = "iSight Recorder">
+         <FileRef
+            location = "group:BTSAppDelegate.h">
+         </FileRef>
+         <FileRef
+            location = "group:BTSAppDelegate.m">
+         </FileRef>
+         <Group
+            location = "group:en.lproj"
+            name = "en.lproj">
+            <FileRef
+               location = "group:Credits.rtf">
+            </FileRef>
+            <FileRef
+               location = "group:InfoPlist.strings">
+            </FileRef>
+            <FileRef
+               location = "group:MainMenu.xib">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:iSight Recorder-Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:iSight Recorder-Prefix.pch">
+         </FileRef>
+         <FileRef
+            location = "group:main.m">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:iSight Recorder.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:09"
+      name = "09">
+      <Group
+         location = "group:iSight Recorder"
+         name = "iSight Recorder">
+         <FileRef
+            location = "group:BTSAppDelegate.h">
+         </FileRef>
+         <FileRef
+            location = "group:BTSAppDelegate.m">
+         </FileRef>
+         <Group
+            location = "group:en.lproj"
+            name = "en.lproj">
+            <FileRef
+               location = "group:Credits.rtf">
+            </FileRef>
+            <FileRef
+               location = "group:InfoPlist.strings">
+            </FileRef>
+            <FileRef
+               location = "group:MainMenu.xib">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:iSight Recorder-Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:iSight Recorder-Prefix.pch">
+         </FileRef>
+         <FileRef
+            location = "group:main.m">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:iSight Recorder.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:10"
+      name = "10">
+      <Group
+         location = "group:DeveloperIDTest"
+         name = "DeveloperIDTest">
+         <FileRef
+            location = "group:BTSAppDelegate.h">
+         </FileRef>
+         <FileRef
+            location = "group:BTSAppDelegate.m">
+         </FileRef>
+         <FileRef
+            location = "group:DeveloperIDTest-Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:DeveloperIDTest-Prefix.pch">
+         </FileRef>
+         <Group
+            location = "group:en.lproj"
+            name = "en.lproj">
+            <FileRef
+               location = "group:Credits.rtf">
+            </FileRef>
+            <FileRef
+               location = "group:InfoPlist.strings">
+            </FileRef>
+            <FileRef
+               location = "group:MainMenu.xib">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:main.m">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:DeveloperIDTest.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:01"
+      name = "01">
+      <Group
+         location = "group:SimpleCalc"
+         name = "SimpleCalc">
+         <FileRef
+            location = "group:BTSAppDelegate.h">
+         </FileRef>
+         <FileRef
+            location = "group:BTSAppDelegate.m">
+         </FileRef>
+         <Group
+            location = "group:en.lproj"
+            name = "en.lproj">
+            <FileRef
+               location = "group:Credits.rtf">
+            </FileRef>
+            <FileRef
+               location = "group:InfoPlist.strings">
+            </FileRef>
+            <FileRef
+               location = "group:MainMenu.xib">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:main.m">
+         </FileRef>
+         <FileRef
+            location = "group:SimpleCalc-Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:SimpleCalc-Prefix.pch">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:SimpleCalc.xcodeproj">
+      </FileRef>
+   </Group>
+</Workspace>
